@@ -3,7 +3,7 @@
 
 - 🔭 I'm in 2nd year of DAW (Web Application Development)
 
-- 🌱 I have knowledge in Python, Java, Javascript and PLSQL
+- 🌱 I have knowledge in Python, Java, Javascript, PLSQL, Angular, React, Node
 
 - 📫 How to reach me **framirezgarcia0@gmail.com**
 
