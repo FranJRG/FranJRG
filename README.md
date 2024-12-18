@@ -27,6 +27,7 @@
 
 - 📄 **Background:**
   - Telecommunications Technician
+  - Internship experience at **Munitecnia** in Écija
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="developer-life" width="400"/>
