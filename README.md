@@ -79,10 +79,10 @@
   <a href="mailto:framirezgarcia0@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/francisco-javier-ramírez-garcía-bb3b602a5" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-javier-ram%C3%ADrez-garc%C3%ADa-bb3b602a5/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/FranJRG/repositories" target="_blank">
+  <a href="https://github.com/FranJRG?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
